@@ -1,0 +1,3 @@
+tests-indirectly-included:
+  img: alpine
+  run: echo "YES"
